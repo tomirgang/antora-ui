@@ -2,8 +2,6 @@ antoraVersion: '1.0.0'
 site:
   url: http://localhost:5252
   title: Grey Beagle Linux
-  github: https://github.com/GreyBeagleLinux
-  logo: https://raw.githubusercontent.com/GreyBeagleLinux/.github/refs/heads/main/GreyBeardLinux_light_fav.webp
   homeUrl: &home_url /xyz/5.2/index.html
   components:
   - name: abc
